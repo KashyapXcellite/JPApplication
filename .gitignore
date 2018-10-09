@@ -1,6 +1,9 @@
 .gradle
 /build/
-!gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.jar
+derby.log
+gradlew
+gradle.bat
 
 ### STS ###
 .apt_generated
